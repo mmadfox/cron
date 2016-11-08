@@ -1,6 +1,9 @@
 # cron
 Based on github.com/robfig/cron
 
+## Installation
+ $ go get github.com/mmadfox/cron
+
 ### Example
 ```Go
 package main
